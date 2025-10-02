@@ -8,6 +8,8 @@
 
 
 | **date**           | **topic**                | **detail**            | **who** | **prog**|
+| --------------------------- | ------------------------------------- | ------------------------ |:---------------------:| ----- |
+
 | Wed., Oct.  1 2025 | Intro & Algorithms       | [algorithms](./calendario/20251001.md)                    | :white_circle:        | L1    |
 | Mon., Oct.  6 2025 | Algorithms               | [examples & exercises](./calendario/20251006.md)          | :white_circle:        | L2    |
 | Wed., Oct.  8 2025 | Setup & Python           | [basics](./calendario/20251008.md)                        | :white_circle:        | L3    |
