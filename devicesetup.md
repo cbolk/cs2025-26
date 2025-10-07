@@ -44,15 +44,16 @@ A short guide to install **Python** and **Visual Studio Code
 
 ## 3. Set Up Python in VS Code
 
-![alt text](./images/vscode-python1.png "Install python Extension in VS Code")
+![install extension](./images/vscode-python1.png "Install python Extension in VS Code")
 
 
 Open VS Code.
 
 Install **Python Extension**:
-   1.   Go to **Extensions (Ctrl+Shift+X / ⇧⌘X)**.
-   2.   Search for **Python** (by Microsoft).
-   3.   Install.
+
+    - 1.   Go to **Extensions (Ctrl+Shift+X)**.
+    - 2.   Search for **Python** (by Microsoft).
+    - 3.   Install.
 
 
 ------------------------------------------------------------------------
@@ -62,5 +63,5 @@ Install **Python Extension**:
 1. Select the File/Folder icon (or use from the Menu: **File -> Open Folder ...** )
 2. Choose the folder where you keep all your code
 
-![alt text](./images/vscode-python2.png "Install python Extension in VS Code")
+![select folder](./images/vscode-python2.png "Select folder with code")
 
