@@ -1,11 +1,14 @@
 # CONSTANT / ARBITRARY ASPECTS OF THE SOLUTION
-INCH_TO_CM = 2.54
 
 # data acquisition
-size_in = float(input()) 
+ch1 = input()
+ch2 = input()
 
 # computation
-size_cm = size_in * INCH_TO_CM
+# nothing to do
 
 # visualisation
-print(size_cm)
+print(ch1)
+print(ch2)
+
+print(ch2, ch1)
