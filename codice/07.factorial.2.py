@@ -1,10 +1,12 @@
-n = int(input("Enter a non-negative integer: "))
-while n < 0:
-    n = int(input("Enter a non-negative integer: "))
+val = int(input("Enter a non-negative integer: "))
+while val < 0:
+    val = int(input("Enter a non-negative integer: "))
 
 # Compute factorial using a while loop
-fact = 1
-for i in range(2, n+1):
-    fact *= i
+fa = 1
+i = val
+while i > 1:
+    fa *= i
+    i -= 1
 
-print(fact)
+print(fa)
