@@ -11,9 +11,9 @@
 | Wed., Oct.  1 2025 | Intro & Algorithms       | [algorithms](./calendario/20251001.md)                    | :white_circle:        | L1    |
 | Mon., Oct.  6 2025 | Algorithms               | [examples & exercises](./calendario/20251006.md)          | :white_circle:        | L2    |
 | Wed., Oct.  8 2025 | [Laptop Setup](./devicesetup.md) & Python           | [basics](./calendario/20251008.md)                        | :white_circle:        | L3    |
-| Mon., Oct. 13 2025 | Python                   | [`if`, `while` & `for`](./calendario/20251013.md)                | :white_circle:        | L4    |
-| Wed., Oct. 15 2025 | Python                   | [strings, lists](./calendario/20251015.md)          | :white_circle:        | L5    |
-| Mon., Oct. 20 2025 | Python                   | [examples & exercises](./calendario/20251020.md)          | :large_blue_circle:   | E1    |
+| Mon., Oct. 13 2025 | Python                   | [`if` & `while`](./calendario/20251013.md)                | :white_circle:        | L4    |
+| Wed., Oct. 15 2025 | Python                   | [`for` & strings](./calendario/20251015.md)          | :white_circle:        | L5    |
+| Mon., Oct. 20 2025 | Python                   | [lists & exercises](./calendario/20251020.md)          | :large_blue_circle:   | E1    |
 | Wed., Oct. 22 2025 | Python                   | [dictionaries & sets](./calendario/20251022.md)          | :white_circle:        | L6    |
 | Mon., Oct. 27 2025 | Python                   | [examples & exercises](./calendario/20251027.md)          | :large_blue_circle:   | E2    |
 | Wed., Oct. 29 2025 | Python                   | [functions](./calendario/20251029.md)          | :white_circle:        | L7    |
