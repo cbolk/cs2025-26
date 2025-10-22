@@ -1,6 +1,9 @@
 dnaseq = input()
 k = int(input())
 
+#added to remove eventual spaces on the command line
+dnaseq = dnaseq.strip()
+
 # extract all possible k-mers
 tdim = len(dnaseq)
 lastpos = tdim-k+1
