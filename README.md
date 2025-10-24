@@ -30,3 +30,7 @@
 | Wed., Dec. 10 2025 | Python                   | [examples & exercises](./calendario/20251210.md)          | :large_blue_circle:   | E8    |
 | Mon., Dec. 15 2025 | Python                   | [examples & exercises](./calendario/20251215.md)          | :white_circle:        | L2    |
 | Wed., Dec. 17 2025 | Closing                  |                                                           | :white_circle:        | L2    |
+
+## Extras
+
++ [operations and methods](./operationsmethods.md)
