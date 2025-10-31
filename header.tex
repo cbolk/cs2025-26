@@ -1,5 +1,25 @@
 \usepackage{xcolor}
 \usepackage{colortbl}
+\usepackage{listings}
+
+% Definisci il colore della barra
+\definecolor{codebar}{RGB}{0,122,204}
+\definecolor{codebg}{RGB}{248,248,248}
 \definecolor{green1}{HTML}{d2e283}
 \definecolor{yellow1}{HTML}{fcf7bb}
 \definecolor{orange1}{HTML}{ffdc81}
+
+% Stile per i blocchi di codice
+\lstset{
+    backgroundcolor=\color{codebg},
+    frame=leftline,
+    framesep=10pt,
+    framerule=2pt,
+    rulecolor=\color{codebar},
+    xleftmargin=15pt,
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    columns=flexible,
+    keepspaces=true
+}
+
