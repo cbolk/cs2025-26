@@ -1,0 +1,25 @@
+JOLLY = ' '
+
+def compatible(seq1, seq2):
+    dim = len(seq1)
+
+    if len(seq2) == dim:
+        # same size, investigate further
+        # I assume they are compatible, look for a violation of the rule 
+        comp = True
+        # for every position in the strings
+        pos = 0
+        while pos < dim and comp == True:
+            # if the characters are different and neither of them is a space
+            if seq1[pos] != seq2[pos] and (seq1[pos] != JOLLY and seq2[pos] != JOLLY):
+#           if seq1[pos] != seq2[pos] and not(seq1[pos] == JOLLY or seq2[pos] == JOLLY):
+                # the strings are not compatible
+                comp = False
+                # interrupt, we know the answer
+        # if I got to the end without encountering a problem, the strings
+        # are compatible
+    else:
+        # different size, they are not compatible
+        comp = False
+    #return the result
+    return comp
