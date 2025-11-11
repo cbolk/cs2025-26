@@ -17,11 +17,11 @@
 | Wed., Oct. 22 2025 | Python                   | [lists (& sets) & dictionaries](./calendario/20251022.md)   | :white_circle:        | L6    |
 | Mon., Oct. 27 2025 | Python                   | [examples & exercises](./calendario/20251027.md)          | :large_blue_circle:   | E2    |
 | Wed., Oct. 29 2025 | Python                   | [functions](./calendario/20251029.md)          | :white_circle:        | L7    |
-| Mon., Nov.  3 2025 | Python                   | [examples & exercises](./calendario/20251103.md)          | :white_circle:        | L8    |
-| Wed., Nov.  5 2025 | Python                   | [files](./calendario/20251105.md)          | :white_circle:        | L9    |
-| Mon., Nov. 10 2025 | Python                   | [examples & exercises](./calendario/20251110.md)          | :large_blue_circle:   | E3    |
-| Wed., Nov. 12 2025 | Python                   | [examples & exercises](./calendario/20251112.md)          | :large_blue_circle:   | E4    |
-| Mon., Nov. 17 2025 | Python                   | [group work](./calendario/20251117.md)          | :white_circle:        | L10    |
+| Mon., Nov.  3 2025 | Python                   | [functions](./calendario/20251103.md)          | :white_circle:        | L8    |
+| Wed., Nov.  5 2025 | Python                   | [examples & exercises](./calendario/20251105.md)          | :large_blue_circle:        | E3    |
+| Mon., Nov. 10 2025 | Python                   | [examples & exercises](./calendario/20251110.md)          | :large_blue_circle:   | E4    |
+| Wed., Nov. 12 2025 | Suspended                   |           |    |     |
+| Mon., Nov. 17 2025 | Python                   | [files](./calendario/20251117.md)          | :white_circle:        | L10    |
 | Wed., Nov. 19 2025 | Python                   | [examples & exercises](./calendario/20251119.md)          | :large_blue_circle:   | E5    |
 | Mon., Nov. 24 2025 | Python                   | [data representation & manipulation](./calendario/20251124.md)          | :white_circle:        | L11    |
 | Wed., Nov. 26 2025 | Python                   | [examples & exercises](./calendario/20251126.md)          | :large_blue_circle:   | E6    |
