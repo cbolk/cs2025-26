@@ -23,7 +23,7 @@
 | Wed., Nov. 12 2025 | Suspended                   |           |    |     |
 | Mon., Nov. 17 2025 | Python                   | [files](./calendario/20251117.md)          | :white_circle:        | L9    |
 | Wed., Nov. 19 2025 | Python                   | [examples & exercises](./calendario/20251119.md)          | :large_blue_circle:   | E5    |
-| Mon., Nov. 24 2025 | Python                   | [data representation & manipulation](./calendario/20251124.md)[running example](./calendario/20251124.pd.trials.md)          | :white_circle:        | L10    |
+| Mon., Nov. 24 2025 | Python                   | [data representation & manipulation](./calendario/20251124.md) [running example](./calendario/20251124.pd.trials.md)          | :white_circle:        | L10    |
 | Wed., Nov. 26 2025 | Python                   | [examples & exercises](./calendario/20251126.md)          | :large_blue_circle:   | E6    |
 | Mon., Dec.  1 2025 | Python                   | [examples & exercises](./calendario/20251201.md)          | :large_blue_circle:   | E7    |
 | Wed., Dec.  3 2025 | Python                   | [examples & exercises](./calendario/20251203.md)                 | :white_circle:        | L11    |
