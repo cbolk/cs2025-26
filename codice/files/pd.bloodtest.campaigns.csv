@@ -1,0 +1,12 @@
+campaign_id,region_id,campaign_month,test_type
+101,1,2025-01,Glucose
+102,1,2025-01,Cholesterol
+103,2,2025-01,Hemoglobin
+104,2,2025-01,Thyroid
+105,3,2025-01,Cholesterol
+106,3,2025-02,Hemoglobin
+107,2,2025-02,Glucose
+108,3,2025-02,Cholesterol
+109,3,2025-02,Cholesterol
+110,3,2025-02,Cholesterol
+111,3,2025-02,Cholesterol

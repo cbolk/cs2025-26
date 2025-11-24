@@ -172,3 +172,73 @@ def mergestrings_rec(s1, s2):
 	return res + mergestrings_rec(nexts1, nexts2)
 ```
 :::
+
+
+::: exefatti
+
+Consider problem on translating from DNA to amino acid sequence: version with a csv file access
+
+```python
+import csv
+
+DNAELEM = 'T'
+RNAELEM = 'U'
+CODON_SIZE = 3
+END = "Stop"
+ERROR = "Error"
+SEP = ","
+
+def loadcodontableshort(fname):
+    codon_dic = {}
+    try: 
+        with open(fname, 'r', newline='') as infile:
+            # creates a object, reader, able to read rows and extract its elements
+            # based on the name of the column
+            # avoids parsing and splitting 
+            reader = csv.DictReader(infile)
+            for row in reader:
+                codon = row['Codon']
+                one_letter = row['1Letter']
+                codon_dic[codon] = one_letter
+    except FileNotFoundError:
+        print(f"File {fname} not accessible")
+    return codon_dic
+
+def codon2aa(seq, d):
+    dim = len(seq)
+
+    # create an empty result string
+    aaseq = ""
+    # for each codon (sequence of three elements)
+        # find the corresponding encoding
+        # append it to the result
+    pos = 0
+    last_pos = dim - CODON_SIZE
+    while pos < last_pos:
+        codon = seq[pos:pos+CODON_SIZE]
+        try:
+            aa = d[codon]
+            aaseq += aa
+            pos += CODON_SIZE
+        except:
+            print(f"codon {codon} not found")
+            return aaseq + ERROR
+    aaseq += END
+    return aaseq
+
+# MAIN FLOW
+# ask the user the DNA string
+dnaseq = input()
+# load the file with the mapping
+filename = input()
+# convert into the RNA strand
+rnaseq = dnaseq.replace(DNAELEM, RNAELEM)
+d = loadcodontableshort(filename)
+if d:
+    aastring = codon2aa(rnaseq, d)
+    print(aastring)
+```
+
+[file](../codice/90.dna2aa.filecsv.py)
+
+:::

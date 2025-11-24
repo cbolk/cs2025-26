@@ -1,0 +1,4 @@
+TrtID,DrugName,StudyArm
+T01,Metabolix,Experimental
+T02,StandardCare,ActiveControl
+T03,Placebo,PlaceboControl

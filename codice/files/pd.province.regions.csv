@@ -1,0 +1,109 @@
+ID,Province,Region,Population
+1,Chieti,Abruzzo,370127 
+2,L'Aquila,Abruzzo,286681 
+3,Pescara,Abruzzo,311826 
+4,Teramo,Abruzzo,299796 
+5,Matera,Basilicata,189098 
+6,Potenza,Basilicata,340799 
+7,Catanzaro,Calabria,339297 
+8,Cosenza,Calabria,669239 
+9,Crotone,Calabria,161479 
+10,Reggio Calabria,Calabria,511935 
+11,Vibo Valentia,Calabria,150197 
+12,Avellino,Campania,394759 
+13,Benevento,Campania,259648 
+14,Caserta,Campania,907442 
+15,Napoli,Campania,2958410 
+16,Salerno,Campania,1054766 
+17,Bologna,Emilia-Romagna,1020865 
+18,Ferrara,Emilia-Romagna,339999 
+19,Forlì-Cesena,Emilia-Romagna,393628 
+20,Modena,Emilia-Romagna,709149 
+21,Parma,Emilia-Romagna,456015 
+22,Piacenza,Emilia-Romagna,286743 
+23,Ravenna,Emilia-Romagna,387501 
+24,Reggio Emilia,Emilia-Romagna,531113 
+25,Rimini,Emilia-Romagna,340665 
+26,Gorizia,Friuli-Venezia Giulia,138636 
+27,Pordenone,Friuli-Venezia Giulia,310967 
+28,Trieste,Friuli-Venezia Giulia,228049 
+29,Udine,Friuli-Venezia Giulia,516443 
+30,Frosinone,Lazio,462363 
+31,Latina,Lazio,566671 
+32,Rieti,Lazio,149923 
+33,Roma,Lazio,4223885 
+34,Viterbo,Lazio,307430 
+35,Genova,Liguria,818651 
+36,Imperia,Liguria,209152 
+37,La Spezia,Liguria,214986 
+38,Savona,Liguria,267119 
+39,Bergamo,Lombardia,1115037 
+40,Brescia,Lombardia,1266138 
+41,Como,Lombardia,598333 
+42,Cremona,Lombardia,353995 
+43,Lecco,Lombardia,333804 
+44,Lodi,Lombardia,230447 
+45,Mantova,Lombardia,407312 
+46,Milano,Lombardia,3247623 
+47,Monza e della Brianza,Lombardia,879752 
+48,Pavia,Lombardia,542082 
+49,Sondrio,Lombardia,179051 
+50,Varese,Lombardia,881907 
+51,Ancona,Marche,461645 
+52,Ascoli Piceno,Marche,200400 
+53,Fermo,Marche,167100 
+54,Macerata,Marche,302309 
+55,Pesaro e Urbino,Marche,349798 
+56,Campobasso,Molise,209207 
+57,Isernia,Molise,78759 
+58,Alessandria,Piemonte,407029 
+59,Asti,Piemonte,207310 
+60,Biella,Piemonte,168257 
+61,Cuneo,Piemonte,581676 
+62,Novara,Piemonte,364478 
+63,Torino,Piemonte,2207873 
+64,Verbano-Cusio-Ossola,Piemonte,153201 
+65,Vercelli,Piemonte,165878 
+66,Bari,Puglia,1218191 
+67,Barletta-Andria-Trani,Puglia,376561 
+68,Brindisi,Puglia,375286 
+69,Foggia,Puglia,590304 
+70,Lecce,Puglia,763778 
+71,Taranto,Puglia,550046 
+72,Cagliari,Sardegna,417079 
+73,Nuoro,Sardegna,195437 
+74,Oristano,Sardegna,147894 
+75,Sassari,Sardegna,471653 
+76,Sud Sardegna,Sardegna,329276 
+77,Agrigento,Sicilia,408059 
+78,Caltanissetta,Sicilia,244913 
+79,Catania,Sicilia,1068563 
+80,Enna,Sicilia,152387 
+81,Messina,Sicilia,595948 
+82,Palermo,Sicilia,1194439 
+83,Ragusa,Sicilia,320976 
+84,Siracusa,Sicilia,382690 
+85,Trapani,Sicilia,411396 
+86,Arezzo,Toscana,333646 
+87,Firenze,Toscana,989460 
+88,Grosseto,Toscana,215328 
+89,Livorno,Toscana,325431 
+90,Lucca,Toscana,380693 
+91,Massa-Carrara,Toscana,186759 
+92,Pisa,Toscana,418561 
+93,Pistoia,Toscana,290036 
+94,Prato,Toscana,261094 
+95,Siena,Toscana,259826 
+96,Bolzano,Trentino-Alto Adige,539386 
+97,Trento,Trentino-Alto Adige,546709 
+98,Umbria,Region,851954 
+99,Perugia,Umbria,636531 
+100,Terni,Umbria,215423 
+101,Aosta,Valle d'Aosta,122714 
+102,Belluno,Veneto,197558 
+103,Padova,Veneto,932704 
+104,Rovigo,Veneto,227052 
+105,Treviso,Veneto,877565 
+106,Venezia,Veneto,833934 
+107,Verona,Veneto,928907 
+108,Vicenza,Veneto,854131 
