@@ -25,7 +25,7 @@
 | Wed., Nov. 19 2025 | Python                   | [examples & exercises](./calendario/20251119.md)          | :large_blue_circle:   | E5    |
 | Mon., Nov. 24 2025 | Python                   | [data representation & manipulation](./calendario/20251124.md) and [running example](./calendario/20251124.pd.trials.md)          | :white_circle:        | L10    |
 | Wed., Nov. 26 2025 | Python                   | [examples & exercises](./calendario/20251126.md)          | :large_blue_circle:   | E6    |
-| Mon., Dec.  1 2025 | Python                   | [examples & exercises](./calendario/20251201.md)          | :large_blue_circle:   | E7    |
+| Mon., Dec.  1 2025 | Python                   | [examples & exercises](./calendario/20251201.md)          | :white_circle   | L10    |
 | Wed., Dec.  3 2025 | Python                   | [visualisation](./calendario/20251203.md) & [team work](./calendario/20251203.teamwork.md)                 | :white_circle:        | L11    |
 | Wed., Dec. 10 2025 | Python                   | [team work](./calendario/20251210.teamwork.md)          | :large_blue_circle:   | L12    |
 | Mon., Dec. 15 2025 | Python                   | [exercises](./calendario/20251215.md)          | :large_blue_circle:        | E8    |
